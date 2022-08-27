@@ -1,0 +1,17 @@
+C:\Users\kevin\source\repos\latihan_1\latihan_1\bin\Debug\latihan_1.exe.config
+C:\Users\kevin\source\repos\latihan_1\latihan_1\bin\Debug\latihan_1.exe
+C:\Users\kevin\source\repos\latihan_1\latihan_1\bin\Debug\latihan_1.pdb
+C:\Users\kevin\source\repos\latihan_1\latihan_1\obj\Debug\latihan_1.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\latihan_1\latihan_1\obj\Debug\latihan_1.Form1.resources
+C:\Users\kevin\source\repos\latihan_1\latihan_1\obj\Debug\latihan_1.Properties.Resources.resources
+C:\Users\kevin\source\repos\latihan_1\latihan_1\obj\Debug\latihan_1.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\latihan_1\latihan_1\obj\Debug\latihan_1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\latihan_1\latihan_1\obj\Debug\latihan_1.exe
+C:\Users\kevin\source\repos\latihan_1\latihan_1\obj\Debug\latihan_1.pdb
+C:\Users\kevin\source\repos\latihan_1\latihan_1\obj\Debug\latihan_1.FAdmin.resources
+C:\Users\kevin\source\repos\latihan_1\latihan_1\obj\Debug\latihan_1.FKasir.resources
+C:\Users\kevin\source\repos\latihan_1\latihan_1\obj\Debug\latihan_1.FPayment.resources
+C:\Users\kevin\source\repos\latihan_1\latihan_1\obj\Debug\latihan_1.FMember.resources
+C:\Users\kevin\source\repos\latihan_1\latihan_1\obj\Debug\latihan_1.FOrder.resources
+C:\Users\kevin\source\repos\latihan_1\latihan_1\obj\Debug\latihan_1.FReport.resources
+C:\Users\kevin\source\repos\latihan_1\latihan_1\obj\Debug\latihan_1.FMenu.resources
