@@ -1,0 +1,14 @@
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\bin\Debug\smk_restaurant.exe.config
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\bin\Debug\smk_restaurant.exe
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\bin\Debug\smk_restaurant.pdb
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.Login.resources
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.Properties.Resources.resources
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.exe
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.pdb
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.FKasir.resources
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.FAdmin.resources
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.FMember.resources
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.FMenu.resources
