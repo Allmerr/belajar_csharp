@@ -29,5 +29,12 @@ namespace smk_restaurant
             Login x = new Login();
             x.Show();
         }
+
+        private void btnPayment_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FPayment newPage = new FPayment();
+            newPage.Show();
+        }
     }
 }

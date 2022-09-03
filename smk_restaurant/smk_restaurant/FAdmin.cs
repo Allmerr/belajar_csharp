@@ -43,5 +43,19 @@ namespace smk_restaurant
             FMenu x = new FMenu();
             x.Show();
         }
+
+        private void btnOrder_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FHead newPage = new FHead();
+            newPage.Show();
+        }
+
+        private void btnReport_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FReport newPage = new FReport();
+            newPage.Show();
+        }
     }
 }

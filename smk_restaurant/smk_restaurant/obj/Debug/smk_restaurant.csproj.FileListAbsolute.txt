@@ -12,3 +12,7 @@ C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaura
 C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.FAdmin.resources
 C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.FMember.resources
 C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.FMenu.resources
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.FOrder.resources
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.FReport.resources
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.FPayment.resources
+C:\Users\kevin\source\repos\smk_restaurant\smk_restaurant\obj\Debug\smk_restaurant.FHead.resources

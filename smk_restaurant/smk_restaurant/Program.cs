@@ -16,7 +16,7 @@ namespace smk_restaurant
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FMenu());
+            Application.Run(new FOrder());
         }
     }
 }

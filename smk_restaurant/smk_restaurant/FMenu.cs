@@ -116,8 +116,6 @@ namespace smk_restaurant
         {
             if (e.RowIndex <= -1) return;
 
-            
-
             txtMenuId.Text = dgv.Rows[e.RowIndex].Cells[0].Value.ToString();
             txtName.Text = dgv.Rows[e.RowIndex].Cells[1].Value.ToString();
             txtPrice.Text = dgv.Rows[e.RowIndex].Cells[2].Value.ToString();
@@ -135,11 +133,18 @@ namespace smk_restaurant
             btnDelete.Enabled = true;
         }
 
+        private static Random random = new Random();
+        public static string RandomString(int length)
+        {
+            const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+            return new string(Enumerable.Repeat(chars, length)
+                .Select(s => s[random.Next(s.Length)]).ToArray());
+        }
         private void btnUpdate_Click(object sender, EventArgs e)
         {
             if(txtName.Text != "" && txtPrice.Text != "")
             {
-                string fname = txtName.Text + ".jpg";
+                string fname = txtName.Text + RandomString(8) + ".jpg";
                 string folder = @"C:\lks";
                 string path = System.IO.Path.Combine(folder, fname);
 
@@ -179,6 +184,11 @@ namespace smk_restaurant
             {
                 MessageBox.Show("Gagal Menghapus Data!");
             }
+        }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            clear();
         }
     }
 }

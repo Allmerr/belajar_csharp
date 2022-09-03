@@ -78,6 +78,7 @@ namespace smk_restaurant
             this.btnOrder.TabIndex = 8;
             this.btnOrder.Text = "Order";
             this.btnOrder.UseVisualStyleBackColor = true;
+            this.btnOrder.Click += new System.EventHandler(this.btnOrder_Click);
             // 
             // btnMember
             // 
@@ -110,6 +111,7 @@ namespace smk_restaurant
             this.btnReport.TabIndex = 11;
             this.btnReport.Text = " Report";
             this.btnReport.UseVisualStyleBackColor = true;
+            this.btnReport.Click += new System.EventHandler(this.btnReport_Click);
             // 
             // FAdmin
             // 

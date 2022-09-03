@@ -75,6 +75,7 @@ namespace smk_restaurant
             this.btnPayment.TabIndex = 9;
             this.btnPayment.Text = "Payment";
             this.btnPayment.UseVisualStyleBackColor = true;
+            this.btnPayment.Click += new System.EventHandler(this.btnPayment_Click);
             // 
             // FKasir
             // 
